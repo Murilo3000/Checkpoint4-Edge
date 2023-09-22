@@ -1,4 +1,4 @@
-<h1># Checkpoint 4 - Web Dev</h1>
+<h1># Checkpoint 4 - Edge</h1>
 
 Este é um projeto sobre o envio dos dados recebidos de temperatura, luminosidade e umidade pela placa ESP32 para a plataforma Tago.io. Esses dados são fictícios, mas com suas devidas alterações, podem ser calculados por sensores reais.<br><br>
 A proposta do dispositivo tem como função:
